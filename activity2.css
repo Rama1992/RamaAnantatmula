@@ -1,0 +1,36 @@
+.nav-item__link {
+    padding: 12px;
+}
+
+.container-body {
+    margin: 20px;
+}
+
+.container-body__image {
+    width: 195px;
+    height: 235px;
+}
+
+.container-body__paragraph{
+    margin-left: 60px;
+}
+
+.container-navtop {
+    background-image: url("glowimage.jpg");
+    background-repeat: repeat-x;
+    background-size: auto;
+}
+
+.container-navtop__soccer {
+    background-image: url("soccerpage.jpg");
+    background-repeat: repeat-x;
+    background-size: auto;
+}
+
+.jumbotron {
+    background-color: rgba(0,0,0,.075)
+}
+
+.myname {
+    color: #a0ff07f2;
+}
